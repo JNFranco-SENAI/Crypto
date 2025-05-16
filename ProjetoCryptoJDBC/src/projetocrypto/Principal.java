@@ -17,11 +17,14 @@ public class Principal {
 			System.out.println("Parabéns ! usuário incluído com sucesso");
 		}
 */
+		/*
+		 * autenticação não está funcionando - verificar
 		if (usu.autenticarUsuario()) {
 			System.out.println("Usuário autenticado com sucesso !!");
 		} else {
 			System.out.println("Usuário não encontrado !!");
 		}
+		*/
 		sc.close();
 
 		
